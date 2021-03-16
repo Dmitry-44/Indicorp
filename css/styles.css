@@ -373,7 +373,7 @@ h6 {
 .about_video {
   max-width: 597px;
   height: 442px;
-  background-image: url(./img/content/about_video.jpg);
+  background-image: url(../img/content/about_video.jpg);
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
